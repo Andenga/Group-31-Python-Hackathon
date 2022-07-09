@@ -27,7 +27,7 @@ Write a program that asks the user to enter the number of books that he or she h
 </ul>
 
 
-<h1>Challenge - Task Two (Day 2)</h1>
+<h1>Career Choice Program - Task Two (Day 2)</h1>
 <h2>Problem Statement.</h2>
 <p>Write a python program that takes user inputs and determines what career the user should learn.<br>
 Requirements:<br>
