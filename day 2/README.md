@@ -23,11 +23,7 @@ Write a program that asks the user to enter the number of books that he or she h
 <li>The ValueError will prevent a stack trace from being displayed incase the user inputs data that is not of integer type.</li>
 </ul>
 </li>
-<li>We use an if elif else statement to show how the points are awarded and determine the right output to print out.</li><li></li>
-28
-<li></li>
-29
-<li></li>
+<li>We use an if elif else statement to show how the points are awarded and determine the right output to print out.</li>
 </ul>
 
 
