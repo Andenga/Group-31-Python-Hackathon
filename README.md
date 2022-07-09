@@ -1,7 +1,5 @@
 <h1>PLP Python Hackathon</h1>
 
-<p>3 Days of Python</p>
-
 <h2>Team members.</h2>
 <ul>
 <li>Njoki	Geoffrey</li>
