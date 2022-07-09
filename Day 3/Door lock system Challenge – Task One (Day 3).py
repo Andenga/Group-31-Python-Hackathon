@@ -1,7 +1,8 @@
-#We begin by importing the relevant libraries.
+#We begin by importing the relevant module.
 #We need datetime library to print when the door was last opened or closed.
 import datetime 
 
+#We use the timedelta() function to calculate the difference in datetime
 Date = datetime.datetime.today() - datetime.timedelta()
 #We store our password in a variable named password 
 #Our password is set to admin
