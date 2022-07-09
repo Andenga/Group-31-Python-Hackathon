@@ -19,6 +19,17 @@ Fare: 100
 </li>
    </ol>
 </p>
+<h2>Problem Definition</h2>
+<h3>Steps Taken to solve the problem: Bus Fare Challenge</h3>
+<ul>
+<li>We began by importing the relevant module: Datetime </li>
+<li>We used the datetime module to get todays date and store it in a variable date then printed it out</li>
+<li>Using todays date that we had generated, we get the name on the day of the week written in short form with the first letter capitalized,
+we achaived this by using the right date to string format and then printed it out</li>
+<li>Using the weekday() method, we used an if statements to determine the today's fare based on weather it was a weekday, Saturday or Sunday then 
+printed it out</li>
+</ul>
+
 
 
 <h1>Sales Tax Challenge – Task Two (Day 1)</h1>
@@ -35,3 +46,33 @@ Fare: 100
 <li>The total cost of the paint job</li>
     </ul>
 </p>
+
+<h2>Problem Definition</h2>
+<h3>Steps Taken to solve the problem: Sales Tax Challenge</h3>
+<ul>
+<li>We ask the user to input the square feet of wall to be painted.
+  <ul>
+    <li>We use the while loop to build a loop that only breaks when the user inputs a valid integer.</li>
+    <li>We use an if statement to check if the input is a positive integer before breaking the loop.</li>
+    <li>We use the ValueError to prevent a stack trace from being displayed incase the user inputs data that is not of integer type.</li>
+    <li>Stack trace is a valuable piece of information that we can use to debug our code.This is not very understandable to a non-programmer.</li>
+    </ul>
+</li>
+
+<li>We ask the user to enter the price of paint per gallon.
+  <ul>
+    <li>We use the while loop to build a loop that only breaks when the user inputs a valid integer.</li>
+    <li>We use an if statement to check if the input is a positive integer before breaking the loop.</li>
+    <li>We use the ValueError to prevent a stack trace from being displayed incase the user inputs data that is not of integer type.</li>
+    <li>Stack trace is a valuable piece of information that we can use to debug our code.This is not very understandable to a non-programmer.</li>
+    </ul>
+</li>
+
+<li> The number of gallons of paint required is the space to paint divided by 115</li>
+<li>The hours of labor required is space to paint * 8 then divided by 115</li>
+<li>The cost of the paint is the paint required * the price of paint</li>
+<li>The labor charges is the hours of labor *$20</li>
+<li>The total cost of the paint job is the sum of the cost of paint and the labor charges</li>
+</ul>
+
+
