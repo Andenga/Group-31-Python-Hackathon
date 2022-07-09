@@ -1,4 +1,4 @@
-#Importing the relevant library
+#Importing the relevant module
 from datetime import date
 
 #Getting today's date and storing it in a variable 'date'
